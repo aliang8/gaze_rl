@@ -1,0 +1,11 @@
+data/*
+models/*
+results/*
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.csv
+__pycache__/*
